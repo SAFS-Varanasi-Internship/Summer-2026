@@ -14,7 +14,7 @@
 </td>
 <td>
 
-* Week 1
+* [Week 1](https://github.com/SAFS-Varanasi-Internship/Summer-2026/discussions/2)
 * Week 2
 * Week 3
 * Week 4
