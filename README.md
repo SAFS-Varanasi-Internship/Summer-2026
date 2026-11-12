@@ -11,7 +11,7 @@
 * [Zotero bibliography](https://www.zotero.org/groups/5595561/safs-interns-2024/library)
 * [JupyterHub](https://nmfs-openscapes.2i2c.org)
 * [mindthegap repo](https://github.com/SAFS-Varanasi-Internship/mindthegap)
-* [Accelerator proposal]()
+* [Accelerator proposal](https://safs-varanasi-internship.github.io/Summer-2026/Accelerator%20Proposal.pdf)
 
 </td>
 <td>
@@ -43,3 +43,7 @@
 </td>
 
 <table>
+
+## References
+
+* Holmes, E. E., Russo, T., & Nair, K. (2027). Scalable deep learning for satellite ocean-color gap filling: From cloud-hosted training data to model deployment to gap-filled outputs [Accepted conference presentation]. 107th American Meteorological Society Annual Meeting. January 2027, Denver, Colorado. https://ams.confex.com/ams/107ANNUAL/meetingapp.cgi/Paper/497283
